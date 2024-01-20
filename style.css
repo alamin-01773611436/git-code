@@ -1,0 +1,131 @@
+.navbar-nav a{
+    margin-left: 10px;
+}
+
+.collapse .dropdown-menu{
+    margin-top: 24px;
+    border: 0;
+    border-radius: 0;
+}
+
+.bg-img img{
+    width: 430px;
+}
+
+.btn-one{
+    background: #8490ff !important;
+}
+
+.bg-colors{
+    background: #f9f9ff;
+}
+
+.fs-7{
+    font-size: 14px;
+}
+
+/* POINT-SECTION */
+
+.point-section{
+    background: #8490ff;
+}
+
+.start h1{
+    font-size: 36px;
+}
+.start p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.card span{
+    height: 100px;
+    width: 100px;
+    background: #f9f9ff;
+    margin: auto;
+    border-radius: 50%;
+    line-height: 100px;
+    font-size: 30px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.card h5{
+    font-size: 19px;
+}
+.card p{
+    font-size: 15px;
+}
+
+.card ul{
+    list-style: none;
+
+}
+.card ul li{
+    margin: 40px 0;
+}
+.card ul li a{
+    text-decoration: none;
+    color: #838383;
+    font-size: 19px;
+}
+.btn-lg-button{
+    padding: 10px 26px;
+    font-size: 20px;
+    box-shadow: 0px 0px 2px ;
+}
+/* CARD HOVER */
+.card:hover button{
+    border: 1px solid #0d6efd;
+    background: #0d6efd;
+    color: #fff;
+}
+.btn-lg-button:hover{
+    border: 1px solid #0d6efd !important;
+    background: #000 !important;
+    color: #fff !important;
+}
+.custom-card{
+    margin-top: 150px;
+    position: relative;
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+.custom-card img{
+    width: 100px;
+    height: 100px;
+    margin-left: -120px;
+    margin-top: -70px;
+    position: absolute;
+}
+
+/* FORM-SECTION */
+.form-section h5{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.form-section h1{
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.btn-two{
+    background: #17a2b8 !important;
+    margin: auto !important;
+    display: block !important;
+    margin-bottom: 20px !important;
+}
+
+.form-section input{
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+
+.form-text-right p{
+    font-size: 18px;
+}
+
+/* FOOTER SECTION */
+footer{
+    background: #04091e;
+
+}
